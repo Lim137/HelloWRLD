@@ -1,0 +1,26 @@
+body{
+    background-image: 
+    url(https://catherineasquithgallery.com/uploads/posts/2021-03/1614788291_103-p-fon-v-yaponskom-stile-153.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-left: 58.6%;
+}
+h1{
+    font-size: 60px;
+color: brown;
+}
+a1 {
+    color: blueviolet;
+}
+li{ font-size: 30px;
+    
+    color: rgb(255, 153, 0);
+}
+a{
+    color: rgb(255, 153, 0);
+}
+h3{
+    font-size: 40px;
+    color: rgb(223, 22, 22);
+}
